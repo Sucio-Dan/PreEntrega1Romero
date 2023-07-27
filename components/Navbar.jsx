@@ -1,0 +1,15 @@
+import "./NavBar.css"
+import Button from "./button";
+
+
+export function Navbar (){
+     return <> <nav className="navbar" >
+        <h3>TuLogo</h3>
+        <Button texto = "remeras" />
+        <Button texto = "Buzos" />
+        <Button texto = "Pantalones" /> 
+     </nav>
+ </>;
+
+}
+
