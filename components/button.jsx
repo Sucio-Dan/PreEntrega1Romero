@@ -1,6 +1,6 @@
 import "./Button.css";
 
-function Button ({texto}){
+function Button  ({texto}){
     return <button className="boton"> {texto} </button>;
 }
 

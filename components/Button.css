@@ -2,6 +2,8 @@
 .boton{
     margin-left: 10px;
     background: rgb(210, 200, 200);
+    display: flex;
+    justify-content: right;
 }
-
+ 
     
